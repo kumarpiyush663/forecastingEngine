@@ -1,0 +1,45 @@
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+INFO:root:Started
+INFO:root:Doing something
+INFO:root:Finished
+2020-05-10 20:52:24,407 This message should go to the log file
+2020-05-10 20:52:24,407 So should this
+2020-05-10 20:52:24,407 And this, too
+2020-05-10 20:52:24,407 Started
+2020-05-10 20:52:24,407 Doing something
+2020-05-10 20:52:24,407 Finished
+2020-05-10 20:54:05,081 : DEBUG: This message should go to the log file
+2020-05-10 20:54:05,081 : INFO: So should this
+2020-05-10 20:54:05,081 : WARNING: And this, too
+2020-05-10 20:54:05,081 : INFO: Started
+2020-05-10 20:54:05,081 : INFO: Doing something
+2020-05-10 20:54:05,081 : INFO: Finished
+2020-05-10 20:54:57,587 : [DEBUG]: This message should go to the log file
+2020-05-10 20:54:57,587 : [INFO]: So should this
+2020-05-10 20:54:57,587 : [WARNING]: And this, too
+2020-05-10 20:54:57,587 : [INFO]: Started
+2020-05-10 20:54:57,587 : [INFO]: Doing something
+2020-05-10 20:54:57,587 : [INFO]: Finished
+10/May/2020 08:59:59 PM : [DEBUG]: This message should go to the log file
+10/May/2020 08:59:59 PM : [INFO]: So should this
+10/May/2020 08:59:59 PM : [WARNING]: And this, too
+10/May/2020 08:59:59 PM : [INFO]: Started
+10/May/2020 08:59:59 PM : [INFO]: Doing something
+10/May/2020 08:59:59 PM : [INFO]: Finished
+10/May/2020 09:00:46 PM : [DEBUG]: This message should go to the log file
+10/May/2020 09:00:46 PM : [INFO]: So should this
+10/May/2020 09:00:46 PM : [WARNING]: And this, too
+10/May/2020 09:00:46 PM : [INFO]: Started
+10/May/2020 09:00:46 PM : [INFO]: Doing something
+10/May/2020 09:00:46 PM : [INFO]: Finished
+[10-May-2020 09:01:23 PM] : [DEBUG]: This message should go to the log file
+[10-May-2020 09:01:23 PM] : [INFO]: So should this
+[10-May-2020 09:01:23 PM] : [WARNING]: And this, too
+[10-May-2020 09:01:23 PM] : [INFO]: Started
+[10-May-2020 09:01:23 PM] : [INFO]: Doing something
+[10-May-2020 09:01:23 PM] : [INFO]: Finished
